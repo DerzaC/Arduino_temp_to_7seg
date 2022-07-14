@@ -1,0 +1,9 @@
+D:/PlatformIO/ardNanoTestOO/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/PlatformIO/ardNanoTestOO/build/CMakeFiles/Experimental.dir
+D:/PlatformIO/ardNanoTestOO/build/CMakeFiles/Continuous.dir
+D:/PlatformIO/ardNanoTestOO/build/CMakeFiles/Nightly.dir
+D:/PlatformIO/ardNanoTestOO/build/CMakeFiles/new.dir
+D:/PlatformIO/ardNanoTestOO/build/CMakeFiles/PACKAGE.dir
+D:/PlatformIO/ardNanoTestOO/build/CMakeFiles/RUN_TESTS.dir
+D:/PlatformIO/ardNanoTestOO/build/CMakeFiles/ALL_BUILD.dir
+D:/PlatformIO/ardNanoTestOO/build/CMakeFiles/ZERO_CHECK.dir
